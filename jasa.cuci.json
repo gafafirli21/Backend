@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ce5"
+  },
+  "merk": "beat stret",
+  "layanan": "cuci poles",
+  "harga": 50000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ce6"
+  },
+  "merk": "scoopy",
+  "layanan": "cuci poles",
+  "harga": 10000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ce7"
+  },
+  "merk": "pcx",
+  "layanan": "cuci",
+  "harga": 15000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ce8"
+  },
+  "merk": "GL100",
+  "layanan": "cuci poles",
+  "harga": 15000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ce9"
+  },
+  "merk": "Nmax",
+  "layanan": "cuci poles",
+  "harga": 10000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37cea"
+  },
+  "merk": "supra",
+  "layanan": "cuci",
+  "harga": 15000
+},
+{
+  "_id": {
+    "$oid": "66950d6571048886b3d37ceb"
+  },
+  "merk": "vario",
+  "layanan": "cuci poles",
+  "harga": 15000
+}]
